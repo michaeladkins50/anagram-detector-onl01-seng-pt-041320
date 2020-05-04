@@ -9,7 +9,7 @@ class Anagram
 
   def match
     match_tester = 0
-    while 
-      
+    while
+
     end
 end
